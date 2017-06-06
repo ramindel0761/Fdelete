@@ -5,8 +5,8 @@
 <h6>(Inter line by line in terminal)</h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/i-Naji/Ftabchi.git</span>
-<span>cd Ftabchi</span>
+<span>git clone https://github.com/ramindel0761/Fdelete.git</span>
+<span>cd Fdelete</span>
 <span>chmod +x launch.sh</span>
 <span>chmod +x steady.sh</span>
 <span>./launch.sh install</span>
